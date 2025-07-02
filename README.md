@@ -6,7 +6,7 @@
 <body>
 <h2>宜蘭 三天兩夜</h2>
 <h3>第一天</h3>
-<p>09:35 轉運站出發<br>
+<p>09:35 <a href="https://www.kamalan.com.tw/rline/intro?id=1&office=19">轉運站</a>出發<br>
 09:50~11：30 板車-羅東<br>
 11:45 機車行取車<br>
 12:20 領車<br>
